@@ -5,7 +5,7 @@
 
 import pandas as pd
 
-df = pd.read_excel(r"/Users/atibadefour-howard/Documents/python_bootcamp/Customer Call List.xlsx")
+df = pd.read_excel(r"/Users/Documents/python_bootcamp/Customer Call List.xlsx")
 df
 
 #remove duplicates
